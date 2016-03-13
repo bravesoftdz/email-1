@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2016/01/07 10:23:28.000.249,=C:\Users\emsantos\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/01/07 10:31:33.000.322,=C:\Users\emsantos\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/01/07 10:43:52.000.394,D:\Edson\Projetos\Envio Email\uEntrada.pas=C:\Users\emsantos\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/01/07 10:43:52.000.394,D:\Edson\Projetos\Envio Email\uEntrada.dfm=C:\Users\emsantos\Documents\RAD Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2016/01/07 10:43:59.000.595,D:\Edson\Projetos\Envio Email\Envio.dproj=C:\Users\emsantos\Documents\RAD Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2016/01/07 10:46:49.000.531,=D:\Edson\Projetos\Envio Email\Unit1.pas</Transaction>
+    <Transaction>2016/01/07 10:47:01.000.289,D:\Edson\Projetos\Envio Email\uEscreverEmail.pas=D:\Edson\Projetos\Envio Email\Unit1.pas</Transaction>
+    <Transaction>2016/01/07 10:47:01.000.289,D:\Edson\Projetos\Envio Email\uEscreverEmail.dfm=D:\Edson\Projetos\Envio Email\Unit1.dfm</Transaction>
+    <Transaction>2016/01/11 09:16:49.000.617,=D:\Edson\Projetos\Envio Email\Unit1.pas</Transaction>
+    <Transaction>2016/01/11 09:17:02.000.025,D:\Edson\Projetos\Envio Email\Unit1.pas=D:\Edson\Projetos\Envio Email\uConexaoDB.pas</Transaction>
+    <Transaction>2016/01/14 10:16:15.000.433,=D:\Edson\Projetos\Envio Email\Unit1.pas</Transaction>
+    <Transaction>2016/01/14 10:16:26.000.967,D:\Edson\Projetos\Envio Email\uCadastroUsuarios.pas=D:\Edson\Projetos\Envio Email\Unit1.pas</Transaction>
+    <Transaction>2016/01/14 10:16:26.000.967,D:\Edson\Projetos\Envio Email\uCadastroUsuarios.dfm=D:\Edson\Projetos\Envio Email\Unit1.dfm</Transaction>
+    <Transaction>2016/02/28 14:00:13.000.866,=D:\Edson\Envio Email\Unit1.pas</Transaction>
+    <Transaction>2016/02/28 14:00:32.000.086,D:\Edson\Envio Email\uEmail.pas=D:\Edson\Envio Email\Unit1.pas</Transaction>
+    <Transaction>2016/03/06 14:03:27.000.395,=D:\Edson\Envio Email\Unit1.pas</Transaction>
+    <Transaction>2016/03/06 14:08:04.000.688,D:\Edson\Envio Email\Unit1.pas=D:\Edson\Envio Email\uLogin.pas</Transaction>
+    <Transaction>2016/03/06 14:08:04.000.688,D:\Edson\Envio Email\Unit1.dfm=D:\Edson\Envio Email\uLogin.dfm</Transaction>
+    <Transaction>2016/03/06 15:42:39.000.572,=D:\Edson\Envio Email\LIB.pas</Transaction>
+    <Transaction>2016/03/06 16:21:04.000.865,=D:\Edson\Envio Email\Unit1.pas</Transaction>
+    <Transaction>2016/03/06 16:21:32.000.002,D:\Edson\Envio Email\Unit1.pas=D:\Edson\Envio Email\uUsuarioLogado.pas</Transaction>
+    <Transaction>2016/03/07 21:31:10.000.368,=D:\Edson\Envio Email\base\Tela_Cadastro_MasterDetail.pas</Transaction>
+    <Transaction>2016/03/07 21:31:12.000.839,=D:\Edson\Envio Email\base\Tela_Cadastro.pas</Transaction>
+    <Transaction>2016/03/07 23:20:50.000.941,D:\Edson\Envio Email\uCadastroUsuarios.pas=</Transaction>
+    <Transaction>2016/03/07 23:21:05.000.302,=D:\Edson\Envio Email\Unit1.pas</Transaction>
+    <Transaction>2016/03/07 23:21:36.000.069,D:\Edson\Envio Email\Unit1.pas=D:\Edson\Envio Email\uCadastroUsuarios.pas</Transaction>
+    <Transaction>2016/03/07 23:21:36.000.069,D:\Edson\Envio Email\Unit1.dfm=D:\Edson\Envio Email\uCadastroUsuarios.dfm</Transaction>
+    <Transaction>2016/03/09 20:40:54.000.239,=D:\Edson\Envio Email\base\Pas\Wcrypt2.pas</Transaction>
+  </Transactions>
+</BorlandProject>
